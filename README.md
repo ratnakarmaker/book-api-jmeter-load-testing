@@ -8,6 +8,11 @@
 - [**Excel and Pdf Report**](https://github.com/ratnakarmaker/book-api-jmeter-load-testing/tree/main/resources)
 
 
+|               Actual TPS               |
+| :----------------------------------------: |
+| ![Test Summary Report](./breakdown-tps.png) |
+
+
 |               Summary Report               |
 | :----------------------------------------: |
 | ![Test Summary Report](./html-report.jpeg) |

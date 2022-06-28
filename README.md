@@ -5,7 +5,7 @@
 - #### [API](https://demoqa.com/BookStore/v1/Books)
 
 ### **Output**
-- [**Excel and Word Report**](https://github.com/ratnakarmaker/book-api-jmeter-load-testing/tree/main/resources)
+- [**Excel and Pdf Report**](https://github.com/ratnakarmaker/book-api-jmeter-load-testing/tree/main/resources)
 
 
 |               Summary Report               |
